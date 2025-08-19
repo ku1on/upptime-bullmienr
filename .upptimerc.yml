@@ -6,7 +6,7 @@ sites:
   - name: Главная страница
     url: https://bullminer.ru/
   - name: Каталог товаров
-    url: https://bullminer.ru/catalog
+    url: https://bullminer.ru/asicminers
   - name: API (телеграм бот)
     url: https://bullminer.ru/api/send-telegram
   - name: Админ-панель (логин)
