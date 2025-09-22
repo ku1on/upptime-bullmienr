@@ -1,7 +1,7 @@
 url: https://bullminer.ru/api/crypto-rates
-status: down
-code: 502
-responseTime: 128
-lastUpdated: 2025-09-22T19:58:09.835Z
+status: up
+code: 200
+responseTime: 276
+lastUpdated: 2025-09-22T20:24:43.392Z
 startTime: 2025-08-19T21:03:34.375Z
 generator: Upptime <https://github.com/upptime/upptime>
