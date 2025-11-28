@@ -94,17 +94,17 @@
     "url": "https://bullminer.ru/robots.txt",
     "icon": "https://icons.duckduckgo.com/ip3/bullminer.ru.ico",
     "slug": "fajl-robots-txt",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 393,
-    "timeDay": 366,
-    "timeWeek": 420,
+    "time": 392,
+    "timeDay": 356,
+    "timeWeek": 417,
     "timeMonth": 390,
-    "timeYear": 393,
+    "timeYear": 392,
     "dailyMinutesDown": {}
   }
 ]
